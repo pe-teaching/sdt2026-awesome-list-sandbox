@@ -5,3 +5,4 @@
 - [Exercism](https://exercism.org) - free coding exercises with feedback from mentors, good practice for new languages.
 - [CS50](https://cs50.harvard.edu/x/) - Harvard course on the basics of computer science, with good homework tasks.
 - [Oh My Git!](https://ohmygit.org) - a card game that teaches git, good before the first team project.
+- [AnkiWeb](https://ankiweb.net) - the web version of Anki flashcards, to repeat cards from any computer.
