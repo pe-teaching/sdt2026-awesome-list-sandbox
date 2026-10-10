@@ -13,3 +13,5 @@
 ## Sport
 
 - [Strava](https://www.strava.com) - track runs and bike rides and join clubs, also with classmates.
+- [MuseScore](https://musescore.org) — write sheet music.
+- [Chess puzzles](http://lichess.org/no-such-page-404) - short puzzles to train chess tactics every day in a break.
