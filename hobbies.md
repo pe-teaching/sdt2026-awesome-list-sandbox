@@ -11,3 +11,5 @@
 - [Ultimate Guitar](https://www.ultimate-guitar.com) - chords and tabs for most songs, a good start to play the guitar.
 
 ## Sport
+
+- [Strava](https://www.strava.com) - track runs and bike rides and join clubs, also with classmates.
