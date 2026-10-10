@@ -5,3 +5,4 @@
 - [regex101](https://regex101.com) - test regular expressions and see an explanation of every part of them.
 - [Semantic Versioning](https://semver.org) - rules for version numbers, so users know when an update can break their code.
 - [Keep a Changelog](https://keepachangelog.com) - how to write a changelog that people can read, with clear examples.
+- [The Twelve-Factor App](https://12factor.net) - short rules for web services that are easy to deploy and run.
