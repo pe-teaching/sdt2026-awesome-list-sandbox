@@ -9,5 +9,6 @@
 ## Music
 
 - [MuseScore](https://musescore.org) - free app to write and play sheet music, useful for a school band or a choir.
+- [Ultimate Guitar](https://www.ultimate-guitar.com) - chords and tabs for most songs, a good start to play the guitar.
 
 ## Sport
